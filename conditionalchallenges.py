@@ -1,9 +1,9 @@
+#Ruby Tallarida
 #Conditonals
 
 #Init
 
 #Functions
-
 #Challenge 1
 #18 years of age or older
 #US citizen
@@ -32,7 +32,6 @@ def max_num(a,b,c):
 
 #Challenge 3
 #This function takes in a score and prints out the letter grade
-
 def score_to_grade(score):
     if score >= 90:
         print("A")
