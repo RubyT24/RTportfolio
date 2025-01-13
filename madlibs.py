@@ -7,7 +7,7 @@
 #functions
 
 #main
-#Has viewer fill in the blanks to create a funny madlibs story
+#Has user fill in the blanks to create a funny madlibs story
 print("Welcome to MadLibs!")
 print("Please answer each prompt to create a story")
 ans1 = input("Give an adjective")
