@@ -1,3 +1,8 @@
+#Generates the animal breed the viewer will be based on how they answer each question
+#They first have to chose between dog and cat
+#then big or small
+#then color
+
 print("Welcome to: What animal breed are you?")
 print("Answer the questions to find out your animal breed")
 ans = input("dog or cat?")
