@@ -1,4 +1,4 @@
-#Generates the animal breed the viewer will be based on how they answer each question
+#Generates the animal breed the user will be based on how they answer each question
 #They first have to chose between dog and cat
 #then big or small
 #then color
