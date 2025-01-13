@@ -2,7 +2,7 @@
 
 #Init
 #functions
-#creates unique headlines by having the viewer fill in the blanks
+#creates unique headlines by having the user fill in the blanks
 def believe_headline():
     noun = input("Please enter a noun: ")
     ppronoun = input("Please enter a possesive pronoun")
