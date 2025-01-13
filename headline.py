@@ -2,6 +2,7 @@
 
 #Init
 #functions
+#creates unique headlines by having the viewer fill in the blanks
 def believe_headline():
     noun = input("Please enter a noun: ")
     ppronoun = input("Please enter a possesive pronoun")
@@ -21,6 +22,6 @@ def believe_headline3():
     place =input("Please enter a place")
     print("a " + noun + " was found in " + ppronoun +" " + place)
 #main
-believe_headline()
-believe_headline2()
-believe_headline3()
+believe_headline() #first headline
+believe_headline2() #second
+believe_headline3() #third
